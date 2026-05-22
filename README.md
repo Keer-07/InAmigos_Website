@@ -38,10 +38,9 @@ inamigos-website/
 │
 ├── index.html
 ├── style.css
-│
-└── images/
-    ├── logo.png
-    ├── home.png
+├── README.md
+├── logo.png
+└── home1.png
 ```
 
 ---
